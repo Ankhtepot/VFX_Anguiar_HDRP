@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/modules.xml
+/.idea.VFXCourse_Anguiar_HDRP.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../:\Unity\projects\VFXCourse_Anguiar_HDRP\.idea\.idea.VFXCourse_Anguiar_HDRP\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
