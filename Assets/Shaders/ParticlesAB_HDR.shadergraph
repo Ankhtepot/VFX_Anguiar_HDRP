@@ -122,7 +122,7 @@
             "m_Guid": ""
         }
     },
-    "m_Path": "Shader Graphs",
+    "m_Path": "Particles_SG",
     "m_ConcretePrecision": 0,
     "m_ActiveOutputNodeGuidSerialized": "ca9c6e5a-163d-4f8d-b0b0-1a7a3be3aa01"
 }
